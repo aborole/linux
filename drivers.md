@@ -8,3 +8,5 @@ On one forum, it was mentioned, that this might be due to NVidia graphics card i
 
 https://linuxconfig.org/how-to-install-nvidia-drivers-on-ubuntu-24-04
 
+After installation of nvidia graphics driver (recommended proprietary tested), when checked wakeup issue was not observed.
+
